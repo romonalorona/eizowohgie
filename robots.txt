@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://johxaelan.the-brooke.org/sitemap.xml
